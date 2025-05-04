@@ -1,6 +1,6 @@
-## 👋 Hello! I'm Kartik Prajapati
+### 👋 Hello! I'm Kartik Prajapati
 
-Welcome to my GitHub 👨‍💻  
+### Welcome to my GitHub 👨‍💻  
 I'm an aspiring Machine Learning Engineer currently diving deep into the world of computer vision, real-time systems, and data-driven solutions. I enjoy solving real-world problems by combining AI with impactful design.
 
 ### 🔭 Currently Working On
