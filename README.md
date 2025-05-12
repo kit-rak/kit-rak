@@ -1,3 +1,5 @@
+![Banner](/assets/kit-rak.png)
+
 ### 👋 Hello! I'm Kartik Prajapati
 
 ### Welcome to my GitHub 👨‍💻  
